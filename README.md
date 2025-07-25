@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL" />
 </p>
 
 <hr />
@@ -58,7 +58,7 @@ public class LifeGoals {
     <a href="https://khushi2405.github.io/my-portfolio/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=FF7139" alt="Portfolio" />
     </a>
-    <a href="https://leetcode.com/khushi2405/" target="_blank">
+    <a href="https://leetcode.com/u/Khushi_2405/" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode" />
     </a>
 </p>
